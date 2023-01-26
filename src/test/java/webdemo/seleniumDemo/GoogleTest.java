@@ -41,7 +41,7 @@ public class GoogleTest {
 
 	@Test
 	public void testTitlePage() {
-    	assertEquals("DuckDuckGo — Prywatność — jeszcze prostsza.", driver.getTitle());
+    	assertEquals("DuckDuckGo — Privacy, simplified.", driver.getTitle());
 	}
 
 	@Test
